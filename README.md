@@ -1,5 +1,7 @@
 <h2> Hi, I'm William! <img src="https://media.giphy.com/media/WysKxC4FjN51mAYolG/giphy.gif" width="50"></h2>
 
+<img src="https://user-images.githubusercontent.com/67796390/138718140-5d5c1055-472c-4e16-92d2-77b2e7c1791b.PNG">
+
 
 [![Twitter: WilarMendoza](https://img.shields.io/twitter/follow/WilarMendoza?style=social)](https://twitter.com/WilarMendoza)
 [![Linkedin: WilarMendoza](https://img.shields.io/badge/-WilarMendoza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-a-mendoza/)](https://www.linkedin.com/in/william-a-mendoza/)
